@@ -14,4 +14,4 @@ npm start
 
 [codesandbox example](https://codesandbox.io/s/react-context-tabs-3v3i0)
 
-![screenshot]()
+![screenshot](https://github.com/Skolozub/React-context-tabs/blob/master/screenshot.jpg)
