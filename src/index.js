@@ -9,13 +9,13 @@ const App = () => (
       <Tabs.Tab tabKey="all" title="Все">
         <Content>Все</Content>
       </Tabs.Tab>
-      <Tabs.Tab tabKey="categoty" title="Категории">
+      <Tabs.Tab tabKey="categories" title="Категории">
         <Content>Категории</Content>
       </Tabs.Tab>
       <Tabs.Tab tabKey="my" title="Мои">
         <Content>Мои</Content>
       </Tabs.Tab>
-      <Tabs.Tab tabKey="edit" title="Режим редактирования">
+      <Tabs.Tab tabKey="edit-mode" title="Режим редактирования">
         <Content>Режим редактирования</Content>
       </Tabs.Tab>
     </Tabs>
